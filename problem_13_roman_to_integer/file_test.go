@@ -1,4 +1,4 @@
-package problem_1_roman_to_integer
+package problem_13_roman_to_integer
 
 import (
 	"github.com/stretchr/testify/assert"
